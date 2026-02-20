@@ -1,8 +1,8 @@
 ## Interface: 120001, 110207, 120000
 
 ## Title: BigWigs [|cffeda55fThe War Within|r]
-## Title-zhCN: BigWigs [|cffeda55fThe War Within|r]
-## Title-zhTW: BigWigs [|cffeda55fThe War Within|r]
+## Title-zhCN: BigWigs [|cffeda55f地心之战|r]
+## Title-zhTW: BigWigs [|cffeda55f地心之戰|r]
 ## Title-deDE: BigWigs [|cffeda55fThe War Within|r]
 ## Title-frFR: BigWigs [|cffeda55fThe War Within|r]
 ## Title-itIT: BigWigs [|cffeda55fThe War Within|r]
@@ -12,8 +12,8 @@
 ## Title-esES: BigWigs [|cffeda55fThe War Within|r]
 ## Title-esMX: BigWigs [|cffeda55fThe War Within|r]
 ## Notes: A collection of BigWigs modules from The War Within era.
-## Notes-zhCN: A collection of BigWigs modules from The War Within era.
-## Notes-zhTW: A collection of BigWigs modules from The War Within era.
+## Notes-zhCN: A collection of BigWigs 地心之战模块。
+## Notes-zhTW: A collection of BigWigs 地心之戰模組。
 ## Notes-deDE: A collection of BigWigs modules from The War Within era.
 ## Notes-frFR: A collection of BigWigs modules from The War Within era.
 ## Notes-itIT: A collection of BigWigs modules from The War Within era.
