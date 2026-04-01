@@ -19,6 +19,7 @@ BigWigs:AddColors("Ulgrax the Devourer", {
 	[445052] = "yellow",
 	[445123] = "red",
 	[455831] = "blue",
+	["berserk"] = {"orange","red"},
 	["stages"] = "cyan",
 })
 
@@ -40,6 +41,7 @@ BigWigs:AddSounds("Ulgrax the Devourer", {
 	[443842] = "alarm",
 	[445052] = "alert",
 	[455831] = "alarm",
+	["berserk"] = "alarm",
 	["stages"] = "long",
 })
 
@@ -85,6 +87,7 @@ BigWigs:AddColors("Sikran, Captain of the Sureki", {
 	[442428] = "orange",
 	[456420] = "red",
 	[459273] = "blue",
+	["berserk"] = {"orange","red"},
 })
 
 BigWigs:AddSounds("Sikran, Captain of the Sureki", {
@@ -94,6 +97,7 @@ BigWigs:AddSounds("Sikran, Captain of the Sureki", {
 	[439559] = "alarm",
 	[456420] = "long",
 	[459273] = "alarm",
+	["berserk"] = "alarm",
 })
 
 BigWigs:AddColors("Rasha'nan", {
@@ -146,6 +150,7 @@ BigWigs:AddColors("Broodtwister Ovi'nax", {
 	[446700] = "yellow",
 	[450661] = "red",
 	[458212] = "blue",
+	["berserk"] = {"orange","red","yellow"},
 })
 
 BigWigs:AddSounds("Broodtwister Ovi'nax", {
@@ -161,6 +166,7 @@ BigWigs:AddSounds("Broodtwister Ovi'nax", {
 	[446700] = "alarm",
 	[450661] = "alarm",
 	[458212] = "alarm",
+	["berserk"] = "alarm",
 })
 
 BigWigs:AddColors("Nexus-Princess Ky'veza", {

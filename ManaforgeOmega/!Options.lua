@@ -112,6 +112,7 @@ BigWigs:AddColors("Forgeweaver Araz", {
 	[1243901] = {"blue","yellow"},
 	[1248009] = "yellow",
 	[1248171] = "orange",
+	["berserk"] = {"orange","red","yellow"},
 	["stages"] = {"cyan","green"},
 })
 
@@ -136,6 +137,7 @@ BigWigs:AddSounds("Forgeweaver Araz", {
 	[1243901] = {"info","warning"},
 	[1248009] = "alert",
 	[1248171] = "alarm",
+	["berserk"] = "alarm",
 	["stages"] = "long",
 })
 

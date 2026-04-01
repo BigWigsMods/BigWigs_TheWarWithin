@@ -116,6 +116,7 @@ BigWigs:AddColors("Stix Bunkjunker", {
 	[1218704] = {"blue","cyan"},
 	[1219384] = "yellow",
 	[1220648] = "blue",
+	["berserk"] = {"orange","red"},
 })
 
 BigWigs:AddSounds("Stix Bunkjunker", {
@@ -136,6 +137,7 @@ BigWigs:AddSounds("Stix Bunkjunker", {
 	[1217975] = "alarm",
 	[1218704] = "alarm",
 	[1219384] = "alarm",
+	["berserk"] = "alarm",
 })
 
 BigWigs:AddColors("Sprocketmonger Lockenstock", {
