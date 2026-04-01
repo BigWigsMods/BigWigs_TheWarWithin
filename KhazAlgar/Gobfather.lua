@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("The Gobfather", -2346, 2683)
 if not mod then return end
 mod:RegisterEnableMob(231821) -- The Gobfather
 mod.otherMenu = -2274
-mod.worldBoss = 231821
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Initialization

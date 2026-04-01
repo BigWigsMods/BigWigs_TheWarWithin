@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("Kordac, the Dormant Protector", -2248, 2637)
 if not mod then return end
 mod:RegisterEnableMob(221084) -- Kordac, the Dormant Protector
 mod.otherMenu = -2274
-mod.worldBoss = 221084
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Initialization

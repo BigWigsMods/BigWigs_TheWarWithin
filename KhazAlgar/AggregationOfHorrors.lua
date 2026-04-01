@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("Aggregation of Horrors", -2214, 2635)
 if not mod then return end
 mod:RegisterEnableMob(220999) -- Aggregation of Horrors
 mod.otherMenu = -2274
-mod.worldBoss = 220999
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Localization

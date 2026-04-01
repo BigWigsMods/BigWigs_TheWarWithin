@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("Orta, the Broken Mountain", -2213, 2625)
 if not mod then return end
 mod:RegisterEnableMob(221067) -- Orta, the Broken Mountain
 mod.otherMenu = -2274
-mod.worldBoss = 221067
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Initialization

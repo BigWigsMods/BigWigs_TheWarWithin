@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("Shurrai, Atrocity of the Undersea", -2215, 2636
 if not mod then return end
 mod:RegisterEnableMob(221224) -- Shurrai, Atrocity of the Undersea
 mod.otherMenu = -2274
-mod.worldBoss = 221224
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Locals

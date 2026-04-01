@@ -6,7 +6,7 @@ local mod, CL = BigWigs:NewBoss("Reshanor, The Untethered", -2371, 2762)
 if not mod then return end
 mod:RegisterEnableMob(238319) -- Reshanor
 mod.otherMenu = -2274
-mod.worldBoss = 238319
+mod:SetWorldModule(true)
 
 --------------------------------------------------------------------------------
 -- Localization
