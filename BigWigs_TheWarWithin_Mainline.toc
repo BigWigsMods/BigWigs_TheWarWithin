@@ -47,7 +47,6 @@ NerubarPalace\Kyveza.lua
 NerubarPalace\TheSilkenCourt.lua
 NerubarPalace\Ansurek.lua
 NerubarPalace\Locales\[TextLocale].lua [AllowLoadTextLocale deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW]
-NerubarPalace\!Options.lua
 
 LiberationOfUndermine\Vexie.lua
 LiberationOfUndermine\Cauldron.lua
@@ -58,7 +57,6 @@ LiberationOfUndermine\Bandit.lua
 LiberationOfUndermine\MugZee.lua
 LiberationOfUndermine\Gallywix.lua
 LiberationOfUndermine\Locales\[TextLocale].lua [AllowLoadTextLocale deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW]
-LiberationOfUndermine\!Options.lua
 
 ManaforgeOmega\Sentinel.lua
 ManaforgeOmega\Loomithar.lua
@@ -69,7 +67,6 @@ ManaforgeOmega\Fractillus.lua
 ManaforgeOmega\Salhadaar.lua
 ManaforgeOmega\Dimensius.lua
 ManaforgeOmega\Locales\[TextLocale].lua [AllowLoadTextLocale deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW]
-ManaforgeOmega\!Options.lua
 
 KhazAlgar\AggregationOfHorrors.lua
 KhazAlgar\Shurrai.lua
@@ -78,4 +75,5 @@ KhazAlgar\Kordac.lua
 KhazAlgar\Gobfather.lua
 KhazAlgar\Reshanor.lua
 KhazAlgar\Locales\[TextLocale].lua [AllowLoadTextLocale deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW]
-KhazAlgar\!Options.lua
+
+!Options.lua
